@@ -375,6 +375,127 @@
     8.ATM (Asynchronous Transfer Mode)
     9.Loopback Address (127.0.0.1)
 
+
+## Dbms + Sql  Day Planning 🚀
+### Day 1 
+    1.What is SQL?
+    2.Classification of SQL Commands
+    3.Classification of SQL Data Types
+    4.Classification of Join in SQL
+    5.What is DBMS?
+    6.Classification of DBMS
+    7.How to Create Database and Show Database Use and Delete Database
+    8.What is the Use of the IF NOT EXISTS Clause in SQL
+    9.What is Constraints in SQL and its Benefits
+    10.How to Create the Table in SQL and Display and Delete Tables
+    11.What is Domain and Tuple
+    12.Instance and Schema in DBMS
+### Day 2 
+    1.What is Data Abstraction and its Levels
+    2.Data Models in SQL and its Types
+    3.Entities, Attributes, and Entity Relationship
+    4.Types of Attributes and Association in DBMS
+    5.Adding a New Column in a Table using SQL
+    6.What is a Trigger in SQL and its Benefits
+    7.Cursors in SQL and its Types
+    8.Types of Attributes (Single Value, Composite, Single Value, Multi Value, Derived)
+    9.Degree of Relationship in DBMS
+### Day 3 
+    1.ER Notation in DBMS
+    2.Tuple, Domain, and Cardinality in a Table
+    3.Degree of a Table
+    4.Referential Constraints and its Types
+    5.Updating Values in a Table
+    6.Deleting Rows from a Table
+    7.Architecture of DBMS Applications
+    8.DBMS vs File System
+    9.WHERE Clause in SQL
+    10.Specialization in DBMS and its Types
+    11.Generalization in DBMS
+    12.Working of Aggregation and Aggregate Functions
+### Day 4 
+    1.Foreign Keys
+    2.Integrity Constraints
+    3.Inner Join with Code
+    4.Left Join with Code
+    5.SQL Aggregate Functions
+        MIN()
+        MAX()
+        COUNT()
+        SUM()
+        AVG()
+    6.ER Diagram for Company Database
+    7.ER Diagram for Student Management System
+    8.Super Keys
+    9.Candidate Keys
+    10.Alternate Keys
+    11.Surrogate Keys with Examples
+    12.Referencing Table
+    13.Referenced Table
+### Day 5 
+    1.Relational Operators (σ, π, ρ)
+    2.Types of Join
+    3.Functional Dependency and its Types (Trivial and Non-Trivial)
+    4.Normalization and its Types
+    5.Removing a Row/Tuple from a Table
+    6.Difference between DELETE and TRUNCATE
+    7.Renaming a Table
+    8.Renaming a Database Name
+    9.SQL SELECT DISTINCT Command
+    10.SQL COUNT() Function
+    11.Trivial and Non-Trivial Functional Dependencies
+    12.Determinant and Dependent
+    13.Rules of FD (Armstrong's Axioms)
+    14.Types of Rat
+    15.Use of TRUNCATE Command
+    16.Use of IN Clause in SQL
+    17.Working of NOT IN Clause
+### Day 6 
+    1.Why Normalization is Needed
+    2.1NF (First Normal Form)
+    3.Partial Dependencies
+    4.ACID Properties
+    5.Shallow Copy of a Database
+    6.DB Pointer
+    7.Transaction State in DBMS
+    8.Working of Transaction Log
+    9.Clustering or Replica Set in DBMS
+    10.Indexing (Dense and Sparse Indexing)
+    11.Partitioning and Sharding
+    12.Database Scaling (Vertical and Horizontal Scaling)
+    13.CAP Theorem in Distributed Database
+### Day 7 
+    1.Master-Slave Architectures
+    2.Database Replication
+        Asynchronous Replication
+        Synchronous Replication
+    3.Deadlock in DBMS
+    4.States of a Transaction
+### Day 8 
+    1.Explain the consistent hashing
+    2.Explain the meaning of the shard
+    3.Explain the meaning of the partition tolerance
+    4.Explain normalization and when it might be used
+    5.what is self join and when would use it
+### Day 9
+    1.what is subqueries and how it is different from join
+    2.Explain the difference between the union and union all
+    3.How does sql injection work and how can you prevent it
+    4.what is difference between the group by and having clauses
+    5.what is correlated subquery and would you use one
+### Day 10 
+    1.Explain the difference between the stored procedure and a function
+    2.How we optimized sql query performance
+    3.How do you handle null value in the sql
+    4.what is the purpose of the sql case statement
+    5.Explain the concept of view in sql
+### Day 11 
+    1.what is CTEs (common table Expressions) and how use it
+    2.How do you perform paging in sql
+    3.what is natural join in sql and when would use it
+
+Revise as much as possible\
+Slow Progress is Better than No Progress
 ## Authors
 
 - [@Ashutosh kumar](https://github.com/Ashukr321)
