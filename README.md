@@ -3,7 +3,7 @@
 ![Logo](https://em360tech.com/sites/default/files/2024-01/what-is-a-computer-network.jpeg)
 ![Logo](https://media.letsupgrade.net/article/images/1650969976384_image.png)
 
-# Complete Core Subject Operating Operating  System  Computer Network DBMS Sql 🚀
+# Complete Core Subject  Operating  System  Computer Network DBMS Sql 🚀
 
 - [Operating System](https://www.geeksforgeeks.org/what-is-an-operating-system/)
 - [Computer Network](https://www.javatpoint.com/computer-network-tutorial)
@@ -11,7 +11,7 @@
 
 
 
-## Quick Reference 🚀🧑‍💻]
+## Quick Reference 🚀🧑‍💻
 
 ## Operating System 
 1. [function of operating system](https://www.geeksforgeeks.org/functions-of-operating-system/)
@@ -223,9 +223,157 @@
     Revision
 ### ⭐⭐ Slow Progress is Better than No Progress ⭐⭐
 
+## 🧑‍💻 Computer Network 🛜
 
+1. [Definition of Computer Network](https://www.geeksforgeeks.org/what-is-computer-networking/)
+2. [Types of Computer Network](https://www.geeksforgeeks.org/what-is-computer-networking/)
+3. [Network Topology](https://www.geeksforgeeks.org/types-of-network-topology/)
+4. [OSI Layers](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+5. [TCP/Ip model ](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
+6. [http vs https](https://www.geeksforgeeks.org/difference-between-http-and-https/)
+7. [FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/)
+8. [SMTP](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/)
+9. [DNS](https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/)
+10. [DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/)
+11. [ARP / RARP ](https://www.geeksforgeeks.org/difference-between-arp-and-rarp/)
+12. [ICMP](https://www.geeksforgeeks.org/internet-control-message-protocol-icmp/)
+13. [Ipv4 vs Ipv6 ](https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/)
+14. [classes of IP](https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/)
+15. [private and public ip](https://www.geeksforgeeks.org/difference-between-private-and-public-ip-addresses/)
+16. [subnet mask ](https://www.geeksforgeeks.org/role-of-subnet-mask/)
+17. [Mac address](https://www.geeksforgeeks.org/mac-address-in-computer-network/)
+18. [switch and bridge](https://www.geeksforgeeks.org/difference-between-switch-and-bridge/)
+19. [tcp vs udp ](https://www.geeksforgeeks.org/differences-between-tcp-and-udp/)
+20. [flow control](https://www.geeksforgeeks.org/flow-control-in-data-link-layer/)
+21. [routing dvr ](https://shorturl.at/kZoQK)
+22. [NAT VS PAT](https://shorturl.at/m5TYg)
+23. [firewall ](https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/)
+24. [vpn](https://www.geeksforgeeks.org/what-is-vpn-and-how-it-works/)
+25. [ssl vs tls](https://www.geeksforgeeks.org/difference-between-secure-socket-layer-ssl-and-transport-layer-security-tls/)
+26. [Encryption](https://www.geeksforgeeks.org/what-is-data-encryption/)
+27. [attack](https://www.geeksforgeeks.org/active-and-passive-attacks-in-information-security/)
+28. [Add hoc network ](https://www.geeksforgeeks.org/introduction-of-mobile-ad-hoc-network-manet/)
+29. [wep and wpa](https://www.geeksforgeeks.org/difference-between-wep-and-wpa/)
+30. [Bandwidth and Throughput ](https://www.geeksforgeeks.org/difference-between-bandwidth-and-throughput/)
+31. [QoS](https://www.geeksforgeeks.org/computer-network-quality-of-service-and-multimedia/)
+32. [jitter](https://www.geeksforgeeks.org/difference-between-latency-and-jitter-in-os/)
+33. [sdn](https://www.geeksforgeeks.org/software-defined-networking/)
+34. [softwere layers of osi model]()
+35. [ports](https://www.geeksforgeeks.org/what-is-ports-in-networking/)
+36. [http methods](https://www.geeksforgeeks.org/what-is-http/)
+37. [keep alive connections ](https://www.hostinger.com/tutorials/improving-website-performance-enabling-keep-alive)
+38. [ response header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+39. [http status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+40. [cookies](https://www.geeksforgeeks.org/understanding-cookies-in-web-browsers/)
+41. [third parties cookies](https://en.wikipedia.org/wiki/Third-party_cookies#:~:text=Third%2Dparty%20cookies%20are%20HTTP,on%20servers%20in%20other%20domains.)
+42. [how email works](https://www.geeksforgeeks.org/working-of-email/)
+43. [icann](https://www.icann.org/)
+44. [checksum](https://www.geeksforgeeks.org/error-detection-code-checksum/)
+45. [timers](https://www.geeksforgeeks.org/tcp-timers/)
+46. [ssl certificate ](https://www.hostinger.in/tutorials/ssl-benefits?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:IN-t1&utm_medium=ppc&gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw_sVxzEoE001fZhoGiB_2wYNk2ZPLma6DQYNnOPDSwjS-3E-h8FssUaAs_lEALw_wcB)
+47. [csrf](https://youtu.be/teVWDzDoWuI?si=hMV85vtcZytXLdMD)
+48. [rbac](https://youtu.be/rvZ35YW4t5k?si=fi7d6jrBaEHjqSQb)
+49. [vpn](https://youtu.be/6UIEtF-Hl2E?si=W6DgKxdhZeccTLC3)
+50. [cdn](https://youtu.be/Wgv24Dkq6VU?si=8BPKmvJbIpB_0tbC)
+51. [waf](https://youtu.be/p8CQcF_9280?si=NOUMra06eVVZd6KF)
+52. [web hooks](https://youtu.be/mrkQ5iLb4DM?si=IbJk6vwyiTT7WNTd)
 
+## Day Wise Revision Plan 📔🔥
+### Day 1 
+    1.Definition of Computer Network
+    2.Types of Computer Networks based on Geographical and Architectural aspects
+    3.Network Topology (Physical and Logical)
+    4.OSI Layers
+    5.Application Layers and its Protocols
+    6.HTTP vs HTTPS
+    7.FTP Server Commands:
+        List
+        Get
+        Put
+        Mkdir
+        Rename
+    8.Active and Passive Mode
+    9.How to enter FTP Client Mode
+    10.Range of Port Numbers
+    11.Number of Bits in a Port Number
+### Day 2 
+    1.Working of SMTP
+    2.DNS (Domain Name System)
+    3.DHCP (Dynamic Host Configuration Protocol)
+    4.PORT
+    5.NAT (Network Address Translation) vs PAT (Port Address Translation)
+    6.Private and Public IP Addresses
 
+### Day 3 
+    1.ARP (Address Resolution Protocol) vs RARP (Reverse Address Resolution Protocol)
+    2.IPv4 vs IPv6
+    3.MAC Address
+    4.Flow Control
+    5.Stop and Wait Protocol
+    6.Go-Back-N ARQ (Automatic Repeat Request)
+    7.TCP (Transmission Control Protocol) vs UDP (User Datagram Protocol)
+### Day 4 
+    1.VPN (Virtual Private Network)
+    2.SSL (Secure Sockets Layer) vs TLS (Transport Layer Security)
+    3.Bandwidth vs Throughput
+    4.SDN (Software-Defined Networking)
+    5.Switch vs Bridge
+    6.Presentation Layer Protocols
+    7.Session Layer Protocols
+### Day 5
+    1.DNS Server and How DNS Works
+    2.QoS (Quality of Service)
+    3.Cookies
+    4.Third-Party Cookies
+    5.Checksum
+### Day 6 
+    1.Timer
+    2.CSRF (Cross-Site Request Forgery)
+    3.Rback
+    4.CDN (Content Delivery Network) - Static vs Dynamic
+    5.HTTP Status Code and HTTP Request Methods
+    6.Transport Layers
+### Day 7 
+    1.Network Layers and Protocols
+    2.Jitter
+    3.Encryption
+    4.Web Hooks
+    5.SSL Certificate
+### Day 8 
+    1.Response Header
+    2.Request Header
+    3.TCP/IP Model
+    4.Data Link Layers Protocol
+    5.WAF (Web Application Firewall)
+    6.Web Hook
+### Day 9 
+    1.IMAP vs POP3
+    2.ICMP (Internet Control Message Protocol)
+    3.IGMP (Internet Group Management Protocol)
+    4.Ad Hoc Network
+    5.Error Control in Computer Network
+    6.Gateways
+    7.Proxy Server and how they protect Computer Networks
+### Day 10 
+    1.TCP 3-Way Handshake Process
+    2.Piggybacking
+    3.RIP (Routing Information Protocol)
+    4.NIC (Network Interface Card)
+    5.Pipelining
+    6.P2P (Peer-to-Peer) Network Architecture
+    7.Client-Server Architecture
+    8.Propagation of Data and its Types
+    9.Server Farm
+### Day 11 
+    1.Tunneling in Computer Network
+    2.Packet Switching in Computer Network
+    3.Types of Packet Switching
+    4.Connection-Oriented Packet Switching
+    5.Connectionless Packet Switching
+    6.Protocol
+    7.IP (Internet Protocol)
+    8.ATM (Asynchronous Transfer Mode)
+    9.Loopback Address (127.0.0.1)
 
 ## Authors
 
