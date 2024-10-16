@@ -12,6 +12,84 @@
 
 
 ## Quick Reference 🚀🧑‍💻
+## 🚀 Software Development Life Cycle (SDLC) 🧑‍💻
+1. [Software Development vs Manufacturing]()
+2. [Characteristics of Software]()
+3. [Major Problems in Software Development]()
+4. [Software Quality Attributes]()
+5. [Software Process]()
+6. [Feasibility Study]()
+7. [Requirements Analysis and Specification]()
+8. [Designing Process]()
+9. [Coding Phase]()
+10. [Testing Process]()
+11. [Debugging]()
+12. [Implementation]()
+13. [Maintenance]()
+14. [Waterfall Model]()
+15. [Prototype Model]()
+16. [Spiral Model]()
+17. [Incremental Development Model]()
+18. [Agile Development Model]()
+19. [Rapid Application Development (RAD) Model]()
+20. [Software Requirements Specification (SRS)]()
+21. [Decision Trees and Decision Tables]()
+22. [Entity-Relationship (ER) Diagrams]()
+23. [Software Design]()
+24. [Software Design Document (SDD)]()
+25. [System Design]()
+26. [Coupling and Cohesion]()
+27. [Modularity]()
+    
+
+      Software Design Principles
+      Software Design Patterns
+      Software Design Processes
+      Software Design Steps
+      Interface Design
+      Architecture Design
+      Detailed Design
+      Software Design Document (SDD)
+      System Design
+      Coupling and Cohesion
+      Modularity
+      Abstraction
+      Encapsulation
+      Information Hiding
+      Separation of Concerns
+28. [Design Structural Charts]()
+29. [Pseudocode]()
+30. [Design Approaches]()
+31. [Unit Testing]()
+32. [Software Testing]()
+
+
+    Top-Down Testing Approach
+    System Testing
+    Regression Testing
+    Black Box Testing
+    White Box Testing
+    Alpha Testing
+    Beta Testing
+    Stress Testing
+    Manual Testing
+    Automation Testing
+    Objective of Software Testing
+
+
+33. [Agile Methodologies]()
+
+
+    Agile Model
+    Scrum Model
+    Sprint
+    Kanban Model
+    Lean Software Development
+    Extreme Programming (XP)
+    Crystal Methodology
+    Feature-Driven Development (FDD)
+    Adaptive Software Development (ASD)
+#
 
 ## Operating System 
 1. [function of operating system](https://www.geeksforgeeks.org/functions-of-operating-system/)
