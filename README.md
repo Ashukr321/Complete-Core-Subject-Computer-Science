@@ -42,21 +42,23 @@
 27. [Modularity]()
     
 
-      Software Design Principles
-      Software Design Patterns
-      Software Design Processes
-      Software Design Steps
-      Interface Design
-      Architecture Design
-      Detailed Design
-      Software Design Document (SDD)
-      System Design
-      Coupling and Cohesion
-      Modularity
-      Abstraction
-      Encapsulation
-      Information Hiding
-      Separation of Concerns
+* Software Design Principles
+* Software Design Patterns
+* Software Design Processes
+* Software Design Steps
+* Interface Design
+* Architecture Design
+* Detailed Design
+* Software Design Document (SDD)
+* System Design
+* Coupling and Cohesion
+* Modularity
+* Abstraction
+* Encapsulation
+* Information Hiding
+* Separation of Concerns
+
+
 28. [Design Structural Charts]()
 29. [Pseudocode]()
 30. [Design Approaches]()
@@ -64,31 +66,31 @@
 32. [Software Testing]()
 
 
-    Top-Down Testing Approach
-    System Testing
-    Regression Testing
-    Black Box Testing
-    White Box Testing
-    Alpha Testing
-    Beta Testing
-    Stress Testing
-    Manual Testing
-    Automation Testing
-    Objective of Software Testing
+* Top-Down Testing Approach
+* System Testing
+* Regression Testing
+* Black Box Testing
+* White Box Testing
+* Alpha Testing
+* Beta Testing
+* Stress Testing
+* Manual Testing
+* Automation Testing
+* Objective of Software Testing    
 
 
 33. [Agile Methodologies]()
 
 
-    Agile Model
-    Scrum Model
-    Sprint
-    Kanban Model
-    Lean Software Development
-    Extreme Programming (XP)
-    Crystal Methodology
-    Feature-Driven Development (FDD)
-    Adaptive Software Development (ASD)
+* Agile Model
+* Scrum Model
+* Sprint
+* Kanban Model
+* Lean Software Development
+* Extreme Programming (XP)
+* Crystal Methodology
+* Feature-Driven Development (FDD)
+* Adaptive Software Development (ASD)     
 #
 
 ## Operating System 
