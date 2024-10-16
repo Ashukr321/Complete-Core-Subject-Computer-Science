@@ -3,7 +3,7 @@
 ![Logo](https://em360tech.com/sites/default/files/2024-01/what-is-a-computer-network.jpeg)
 ![Logo](https://media.letsupgrade.net/article/images/1650969976384_image.png)
 
-# Complete Core Subject  Operating  System  Computer Network DBMS Sql 🚀
+# Complete Core Subject  Operating  System  Computer Network DBMS Sql  , SDLC🚀
 
 - [Operating System](https://www.geeksforgeeks.org/what-is-an-operating-system/)
 - [Computer Network](https://www.javatpoint.com/computer-network-tutorial)
@@ -13,33 +13,33 @@
 
 ## Quick Reference 🚀🧑‍💻
 ## 🚀 Software Development Life Cycle (SDLC) 🧑‍💻
-1. [Software Development vs Manufacturing]()
-2. [Characteristics of Software]()
-3. [Major Problems in Software Development]()
-4. [Software Quality Attributes]()
-5. [Software Process]()
-6. [Feasibility Study]()
-7. [Requirements Analysis and Specification]()
-8. [Designing Process]()
-9. [Coding Phase]()
-10. [Testing Process]()
-11. [Debugging]()
+1. [Software Development vs Manufacturing](https://www.globalapptesting.com/blog/is-software-development-like-manufacturing)
+2. [Characteristics of Software](https://www.geeksforgeeks.org/software-engineering-software-characteristics/)
+3. [Major Problems in Software Development](https://www.geeksforgeeks.org/challenges-of-software-developers/)
+4. [Software Quality Attributes](https://www.geeksforgeeks.org/software-engineering-software-quality/)
+5. [Software Process](https://www.geeksforgeeks.org/software-processes-in-software-engineering/)
+6. [Feasibility Study](https://www.investopedia.com/terms/f/feasibility-study.asp)
+7. [Requirements Analysis and Specification](https://www.geeksforgeeks.org/activities-involved-in-software-requirement-analysis/)
+8. [Designing Process](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
+9. [Coding Phase](https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/)
+10. [Testing Process](https://www.geeksforgeeks.org/general-steps-of-software-testing-process/)
+11. [Debugging](https://www.ibm.com/topics/debugging#:~:text=Debugging%20is%20the%20process%20of,the%20overall%20performance%20of%20software.)
 12. [Implementation]()
-13. [Maintenance]()
-14. [Waterfall Model]()
-15. [Prototype Model]()
-16. [Spiral Model]()
-17. [Incremental Development Model]()
-18. [Agile Development Model]()
-19. [Rapid Application Development (RAD) Model]()
-20. [Software Requirements Specification (SRS)]()
-21. [Decision Trees and Decision Tables]()
-22. [Entity-Relationship (ER) Diagrams]()
-23. [Software Design]()
-24. [Software Design Document (SDD)]()
-25. [System Design]()
-26. [Coupling and Cohesion]()
-27. [Modularity]()
+13. [Maintenance](https://www.geeksforgeeks.org/software-engineering-software-maintenance/)
+14. [Waterfall Model](https://www.geeksforgeeks.org/waterfall-model/)
+15. [Prototype Model](https://www.geeksforgeeks.org/software-engineering-prototyping-model/)
+16. [Spiral Model](https://www.geeksforgeeks.org/software-engineering-spiral-model/)
+17. [Incremental Development Model](https://www.geeksforgeeks.org/software-engineering-incremental-process-model/)
+18. [Agile Development Model](https://www.geeksforgeeks.org/software-engineering-agile-development-models/)
+19. [Rapid Application Development (RAD) Model](https://www.geeksforgeeks.org/software-engineering-rapid-application-development-model-rad/)
+20. [Software Requirements Specification (SRS)](https://www.geeksforgeeks.org/software-requirement-specification-srs-format/)
+21. [Decision Trees and Decision Tables](https://www.geeksforgeeks.org/difference-between-decision-table-and-decision-tree/)
+22. [Entity-Relationship (ER) Diagrams](https://www.geeksforgeeks.org/introduction-of-er-model/)
+23. [Software Design](https://www.geeksforgeeks.org/software-engineering-software-design-process/)
+24. [Software Design Document (SDD)](https://document360.com/blog/software-design-document/)
+25. [System Design](https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/)
+26. [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
+27. [Modularity](https://www.geeksforgeeks.org/modularity-and-its-properties/)
     
 
 * Software Design Principles
@@ -59,11 +59,11 @@
 * Separation of Concerns
 
 
-28. [Design Structural Charts]()
-29. [Pseudocode]()
-30. [Design Approaches]()
-31. [Unit Testing]()
-32. [Software Testing]()
+28. [Design Structural Charts](https://www.geeksforgeeks.org/software-engineering-structure-charts/)
+29. [Pseudocode](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
+30. [Design Approaches](https://www.michaelpage.com.au/advice/career-advice/productivity-and-performance/top-7-sdlc-methodologies)
+31. [Unit Testing](https://www.geeksforgeeks.org/unit-testing-software-testing/)
+32. [Software Testing](https://www.geeksforgeeks.org/software-testing-basics/)
 
 
 * Top-Down Testing Approach
@@ -79,7 +79,7 @@
 * Objective of Software Testing    
 
 
-33. [Agile Methodologies]()
+33. [Agile Methodologies](https://www.geeksforgeeks.org/what-is-agile-methodology/)
 
 
 * Agile Model
